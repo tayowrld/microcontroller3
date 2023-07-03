@@ -854,7 +854,7 @@ button:hover {
     justify-content: space-evenly;
     margin-bottom: 20px;
     box-sizing: border-box;
-    padding: 0 calc(50% - 750px);
+    padding: 0 calc(50% - 500px);
 }
 
 .story-img {
@@ -863,6 +863,7 @@ button:hover {
     border-radius: 50%;
     overflow: hidden;
     margin-right: 10px;
+    border: 2px solid #fff;
 }
 
 .story-img img{

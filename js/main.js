@@ -59,7 +59,7 @@ var accept = true;
 
 function buy(){
     if (accept == true){
-        window.location.href = 'https://mastercpu.e-autopay.com/buy/523447';
+        window.location.href = 'http://mastercpu.e-autopay.com/buy/523447';
     }
     else{
         alert("Необходимо согласие");
